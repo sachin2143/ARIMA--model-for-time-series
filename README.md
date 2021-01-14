@@ -1,1 +1,1 @@
-# ARIMA model for tempreature prediction 
+# ARIMA model for weather forecasting (tempreature)
